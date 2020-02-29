@@ -13,6 +13,10 @@ There will be several levels consisting of increasing difficulty. The current le
 
 In levels that include colliding walls, the player will lose if they contact the wall. In levels that include objects walking toward the player, the player will lose if they contact the object. 
 
+The player will begin at the top of a "tower" where the objective is to reach the bottom of the tower. Thus, they will start at the "highest" level. "Lower" levels will indicate increasing difficulty. In between each level, they will find themselves in a "safe" level so that they can open an options menu, or move to the next level.
+
+When the player reaches the bottom of the tower and clears it, they will be shown the final level and given the option to add one of several options to the final level. This object will impair other players of the session, but will reset upon restarting the project.
+
 ### Intended Environment
 
 The intended virtual environment will be generated and purposed for the VIVE, as it will allow for motion control through physical walking in space, rather than the CAVE2, which allows for motion control through directional input.
@@ -29,6 +33,7 @@ The intended virtual environment will be generated and purposed for the VIVE, as
 - Providing levels that include visual assistance for comparison.
 - Giving the player an object that they will have to bring around to the goal. The object should also not collide with anything.
 - Giving the player an object that they can bring around through the space. The object can pause/remove negative objects.
+- The ability for a player to revisit previously completed levels with complete visual assistance.
 
 ### Supporting Resources for Project Evidence
 - [Realistic, Responsive Audio is the Next Frontier in VR Innovation](https://www.cbinsights.com/research/vr-audio-tech/)
