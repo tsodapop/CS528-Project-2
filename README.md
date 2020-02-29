@@ -39,5 +39,6 @@ The intended virtual environment will be generated and purposed for the VIVE, as
 - [Realistic, Responsive Audio is the Next Frontier in VR Innovation](https://www.cbinsights.com/research/vr-audio-tech/)
 - [Creating an Audio Story with Interactive Binaural Rendering in Virtual Reality](https://www.hindawi.com/journals/wcmc/2019/1463204/)
 - [The effect of 3D Audio and Other Audio Techniques on Virtual Reality Experience](https://www.researchgate.net/publication/291516579_The_Effect_Of_3D_Audio_And_Other_Audio_Techniques_On_Virtual_Reality_Experience)
+- [source Source Localization with Varying Amount of Visual Information in Virtual Reality] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214603)
 
 
