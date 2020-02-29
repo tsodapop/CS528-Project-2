@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# CS 528 Project 2 - Marco Polo V2 - Electric Boogaloo
 
-You can use the [editor on GitHub](https://github.com/tsodapop/CS528-Project-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project Idea
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The idea of the project is to create a virtual environment space that will need navigation from point A to point B in a map. The player will not be able to see the environment. Instead, they will be guided by audio. An audio clearly for assisting the player will be provided.
 
-### Markdown
+There will be several levels consisting of increasing difficulty. The current levels are as follows:
+- Full open space
+- Open space with single colliding wall
+- Open space with multiple colliding walls
+- Open space with objects that walk toward the player
+- Open space with colliding walls and objects that walk toward the player
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In levels that include colliding walls, the player will lose if they contact the wall. In levels that include objects walking toward the player, the player will lose if they contact the object. 
 
-```markdown
-Syntax highlighted code block
+### Intended Environment
 
-# Header 1
-## Header 2
-### Header 3
+The intended virtual environment will be generated and purposed for the VIVE, as it will allow for motion control through physical walking in space, rather than the CAVE2, which allows for motion control through directional input.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Concerns
+- Spatial Constraints due to the nature of how much space is safely available to maneuver with the VIVE.
+- People have differing levels of hearing - may consider having an audio source control for all sound to be able to calibrate
+- Handling several sounds. The intention is to have audio that will assist the player, but if I want to include multiple objects that also negatively impact the player, they will conflict with the assisting audio.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsodapop/CS528-Project-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Potential Additions
+- Adding areas outside of just point A to point B in a map
