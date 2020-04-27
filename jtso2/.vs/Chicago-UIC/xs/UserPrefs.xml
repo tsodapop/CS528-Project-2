@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6BFFB429-B781-D6A4-39BD-23B95F76209C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ClickForSoundCanPause.cs">
+    <Files>
+      <File FileName="Assets/ClickForSound.cs" Line="15" Column="42" />
+      <File FileName="Assets/ClickForSoundCanPause.cs" Line="6" Column="1" />
+      <File FileName="Assets/LocationUpdate.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chicago-UIC" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ClickForSoundCanPause.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c10b282-6f38-4698-a833-d243b9d5945e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
