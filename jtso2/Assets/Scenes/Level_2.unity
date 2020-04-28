@@ -514,7 +514,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03cfd514c9ccbde40ae89aa75ff5777b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileShooter: {fileID: 0}
+  projectileShooter: {fileID: 2011662578}
 --- !u!65 &142793494
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3607,7 +3607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03cfd514c9ccbde40ae89aa75ff5777b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileShooter: {fileID: 0}
+  projectileShooter: {fileID: 2011662578}
 --- !u!82 &963367962
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4670,7 +4670,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03cfd514c9ccbde40ae89aa75ff5777b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileShooter: {fileID: 0}
+  projectileShooter: {fileID: 2011662578}
 --- !u!82 &1412443513
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5200,7 +5200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03cfd514c9ccbde40ae89aa75ff5777b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileShooter: {fileID: 0}
+  projectileShooter: {fileID: 2011662578}
 --- !u!82 &1628879122
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5416,7 +5416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03cfd514c9ccbde40ae89aa75ff5777b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileShooter: {fileID: 0}
+  projectileShooter: {fileID: 2011662578}
 --- !u!82 &1759732332
 AudioSource:
   m_ObjectHideFlags: 0
