@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C214D615-C57A-B8ED-5D52-B6099429AFC0}</ProjectGuid>
+    <ProjectGuid>{780C2AE2-96DF-2C58-61B6-A9053E9C87CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -66,79 +66,79 @@
     <Compile Include="Assets\module-omicron\CAVE2\Scripts\Editor\OmicronEditorMode.cs" />
     <Compile Include="Assets\module-omicron\Scripts\Util\Editor\CreateAssetBundles.cs" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Supyrb.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VRTK.Prefabs.Runtime">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/VRTK.Prefabs.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/VRTK.Prefabs.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Zinnia.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Zinnia.Runtime">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -333,37 +333,37 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.BehaviourStateRequirementMethod">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberChangeMethod">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberClearanceMethod">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.PropertySerializationAttribute">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.XmlDocumentationAttribute">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Jonathan/Desktop/528/project_jtso2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Jonathan/Documents/GitHub/CS528-Project-2/jtso2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.11f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -728,7 +728,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{947D9774-602A-65BD-99CB-A47C5658A528}</Project>
+      <Project>{FE01A680-D9D3-DE06-E46C-D5C36CF92444}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
